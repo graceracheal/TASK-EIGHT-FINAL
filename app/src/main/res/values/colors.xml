@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_light_gray">#D3D3D3</color>
+    <color name="primary_dark_gray">#C0C0C0</color>
+    <color name="accent_gray">#A9A9A9</color>
+    <color name="dark_gray_333">#FF333333</color>
+    <color name="dark_gray_555">#FF555555</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightPink">#FFADCE</color>
+    <color name="hotPink">#FF1493</color>
+    <color name="navy">#000080</color>
+    <color name="darkNavy">#000050</color>
+    <color name="midnightBlue">#191970</color>
+    <color name="navyBlue">#001F5A</color>
+    <!-- colors.xml -->
+    <color name="lightBlue">#ADD8E6</color>
+    <color name="skyBlue">#87CEEB</color>
+    <color name="babyBlue">#89CFF0</color>
+    <color name="powderBlue">#B0E0E6</color>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dashboard_share_button" type="id" />
+    <item name="dashboard_input" type="id" />
+    <item name="dashboard_shared_data_text" type="id" />
+</resources>
